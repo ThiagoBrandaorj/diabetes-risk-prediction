@@ -4,6 +4,8 @@ Repository for a notebook from a Machine Learning class (IBMEC).
 
 Projeto de classificação que busca prever o **risco de diabetes** a partir de indicadores de saúde e estilo de vida, usando o dataset [Diabetes Health Indicators](https://raw.githubusercontent.com/cassiusf/datasets/refs/heads/main/desafios/diabetes_health_indicators.csv), comparando regressão logística e Random Forest.
 
+Uma pequena aplicação com o modelo de Random Forrest está disponível no link: https://thiagobrandaorj.github.io/diabetes-risk-prediction/
+
 ## Arquivo
 
 ### `Cópia_de_03_Diabetes.ipynb`
