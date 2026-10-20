@@ -41,4 +41,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn shap
 
 - Classes muito raras dentro do próprio alvo (como "pré-diabetes") podem ser agrupadas com a classe de interesse mais próxima para tornar o problema mais tratável, sem perder o objetivo de negócio (identificar quem está em risco).
 - Ajuste de **threshold de decisão** e **pesos de classe** (tanto em regressão logística quanto em Random Forest) são ferramentas complementares para lidar com desbalanceamento, sem depender de oversampling/undersampling.
-- Nem toda variável rara deve ser descartada automaticamente — a decisão de manter `Age`, `Education` e `Income` mesmo com categorias pouco frequentes respeita a relevância de negócio dessas variáveis.
+- Nem toda variável rara deve ser descartada automaticamente — a decisão de manter `Age`, `Education` e `Income` mesmo com categorias pouco frequentes respeita a relevância de negócio dessas variáveis. 
